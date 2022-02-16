@@ -1,2 +1,2 @@
-# -wierkowo
+# Swierkowo
 Webpage for my house
